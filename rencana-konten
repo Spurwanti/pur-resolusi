@@ -1,7 +1,7 @@
 rencana konten pur-resolusi
 - menampilkan grafik
-  ^grafik
-- menampilkan dasbord
+  ^grafik batang
+  ^kasih warna
 - menambahkan diagram
   ^diagram pie
 - menambahkan manual book
